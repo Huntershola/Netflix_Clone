@@ -14,7 +14,7 @@ This project is a clone of the Netflix website, showcasing various sections such
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone `.
+1. Clone this repository to your local machine using `git clone https://github.com/Huntershola/Netflix_Clone.git`.
 2. Open the project directory.
 3. Open the `index.html` file in a web browser.
 
